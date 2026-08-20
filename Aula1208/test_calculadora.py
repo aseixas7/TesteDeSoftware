@@ -1,6 +1,6 @@
 import pytest
 
-from calculadora import calcular_desconto
+from Aula1208.calculadora import calcular_desconto
 
 
 @pytest.mark.parametrize(
